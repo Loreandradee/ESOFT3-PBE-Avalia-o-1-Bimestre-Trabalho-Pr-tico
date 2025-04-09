@@ -2,7 +2,7 @@
 body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background: url(/image/Ceu.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Ceu.jpg); /* Define a imagem de fundo */
     background-size: auto; /* Define o tamanho do fundo */
     display: flex; /* Define o layout flexível */
     flex-direction: column; /* Define a direção do layout flexível */
@@ -53,7 +53,7 @@ main {
     display: flex; /* Define o layout flexível */
     justify-content: center; /* Centraliza os itens horizontalmente */
     padding: 20px; /* Define o padding */
-    background: url(/image/TerraWalpaper2.png); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/TerraWalpaper2.png); /* Define a imagem de fundo */
     border-radius: 10px; /* Define o raio da borda */
     margin: 100px; /* Define a margem */
     width: 90%; /* Define a largura */
@@ -95,7 +95,7 @@ form {
 
 /* Estilos para o rodapé */
 footer {
-    background: url(/image/Ceu.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Ceu.jpg); /* Define a imagem de fundo */
     width: 100%; /* Define a largura */
     position: relative; /* Define a posição relativa */
     bottom: 0px; /* Define a posição inferior */
