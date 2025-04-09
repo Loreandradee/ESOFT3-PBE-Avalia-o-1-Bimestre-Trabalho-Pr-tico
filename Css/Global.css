@@ -12,5 +12,5 @@ footer {
 /* Adicionar a fonte Minecraft que foi baixada */
 @font-face {
     font-family: 'Font-Minecraft'; /* Nome da fonte */
-    src: url('/font/Font-Minecraft.otf') format('opentype'); /* Caminho para o arquivo da fonte e seu formato */
+    src: url('https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/font/Font-Minecraft.otf') format('opentype'); /* Caminho para o arquivo da fonte e seu formato */
 }
