@@ -2,7 +2,7 @@
 body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background: url(/image/areia.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/areia.jpg); /* Define a imagem de fundo */
     background-size: auto; /* Define o tamanho do fundo */
     display: flex; /* Define o layout flexível */
     flex-direction: column; /* Define a direção do layout flexível */
@@ -11,7 +11,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background: url(/image/gravel.png); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/gravel.png); /* Define a imagem de fundo */
     font-family: 'Font-Minecraft', sans-serif; /* Define a fonte */
     width: 100%; /* Define a largura */
     height: 100px; /* Define a altura */
@@ -156,7 +156,7 @@ main {
 
 /* Estilos para o rodapé */
 footer {
-    background: url(/image/gravel.png); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/gravel.png); /* Define a imagem de fundo */
     width: 100%; /* Define a largura */
     position: relative; /* Define a posição relativa */
     bottom: 0px; /* Define a posição inferior */
