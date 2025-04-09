@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(/image/Ceu.jpg);
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Ceu.jpg);
     background-size: auto;
     display: flex;
     flex-direction: column;
@@ -51,7 +51,7 @@ header {
 main {
     display: flex;
     justify-content: center;
-    background: url(/image/TerraWalpaper2.png);
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/TerraWalpaper2.png);
     border-radius: 10px;
     margin: 100px 0;
     width: 90%;
@@ -93,7 +93,7 @@ form {
 
 /* Estilos para o rodapé */
 footer {
-    background: url(/image/Ceu.jpg);
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Ceu.jpg);
     width: 100%;
     position: relative;
     bottom: 0px;
