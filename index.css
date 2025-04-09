@@ -7,7 +7,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-image: url(/image/Grass.jpg); /* Define a imagem de fundo */
+    background-image: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Grass.jpg); /* Define a imagem de fundo */
     background-color: lime; /* Define a cor de fundo */
     width: 100%; /* Define a largura */
     height: 100px; /* Define a altura */
