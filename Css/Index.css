@@ -7,7 +7,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-    background-image: url(/image/Grass.jpg); /* Define a imagem de fundo */
+    background-image: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Grass.jpg); /* Define a imagem de fundo */
     background-color: lime; /* Define a cor de fundo */
     width: 100%; /* Define a largura */
     height: 100px; /* Define a altura */
@@ -27,7 +27,7 @@ header div {
 /* Estilos para a seção principal */
 .main {
     height: 600px; /* Define a altura */
-    background: url(/image/Ceu.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Ceu.jpg); /* Define a imagem de fundo */
     background-size: cover; /* Define o tamanho do fundo */
     background-position: center; /* Centraliza o fundo */
 }
@@ -35,14 +35,14 @@ header div {
 /* Estilos para a seção de terra */
 .dirt {
     height: 300px; /* Define a altura */
-    background: url(/image/Dirt.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Dirt.jpg); /* Define a imagem de fundo */
 }
 
 /* Estilos para a primeira seção principal */
 .main1 {
     height: 800px; /* Define a altura */
     background: local; /* Define o fundo local */
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(/image/Stone.jpg); /* Define o gradiente e a imagem de fundo */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Stone.jpg); /* Define o gradiente e a imagem de fundo */
 }
 
 /* Estilos para a div principal */
@@ -130,7 +130,7 @@ header div {
 
 /* Estilos para a segunda seção principal */
 .main2 {
-    background: linear-gradient(to bottom, black, rgba(255, 255, 255, 0)), url(/image/Nether.jpg); /* Define o gradiente e a imagem de fundo */
+    background: linear-gradient(to bottom, black, rgba(255, 255, 255, 0)), url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/Nether.jpg); /* Define o gradiente e a imagem de fundo */
     height: 800px; /* Define a altura */
     background-size: cover; /* Define o tamanho do fundo */
     background-position: center; /* Centraliza o fundo */
@@ -154,7 +154,7 @@ header div {
 
 /* Estilos para o rodapé */
 footer {
-    background: url(/image/netherack.jpg); /* Define a imagem de fundo */
+    background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/netherack.jpg); /* Define a imagem de fundo */
 }
 
 /* Estilos para o texto */
