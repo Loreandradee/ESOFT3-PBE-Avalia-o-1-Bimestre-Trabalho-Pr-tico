@@ -100,3 +100,8 @@ footer {
     position: relative; /* Define a posição relativa */
     bottom: 0px; /* Define a posição inferior */
 }
+
+@font-face {
+    font-family: 'Font-Minecraft'; /* Nome da fonte */
+    src: url('https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/font/Font-Minecraft.otf') format('opentype'); /* Caminho para o arquivo da fonte e seu formato */
+}
