@@ -6,13 +6,13 @@ body {
     background-size: auto; /* Define o tamanho do fundo */
     background-position: center; /* Centraliza o fundo */
     background-repeat: no-repeat; /* Define que o fundo não se repete */
-    background-image: url('/image/fundo_Mine.png'); /* Define a imagem de fundo */
+    background-image: url('https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/fundo_Mine.png'); /* Define a imagem de fundo */
 }
 
 /* Estilos para o cabeçalho */
 header {
     font-family: 'Font-Minecraft', sans-serif; /* Define a fonte */
-    background-image: url('image/fundo_Mine.png'); /* Define a imagem de fundo */
+    background-image: url('https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/fundo_Mine.png'); /* Define a imagem de fundo */
     display: flex; /* Define o layout flexível */
     align-items: center; /* Centraliza os itens verticalmente */
     justify-content: center; /* Centraliza os itens horizontalmente */
