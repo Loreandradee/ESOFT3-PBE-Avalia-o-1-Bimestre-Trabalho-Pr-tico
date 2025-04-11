@@ -1,3 +1,7 @@
+html {
+heigh: 100%;
+}
+
 /* Estilos globais para o corpo da página */
 body {
     margin: 0; /* Remove a margem padrão */
@@ -7,6 +11,8 @@ body {
     display: flex; /* Define o layout flexível */
     flex-direction: column; /* Define a direção do layout flexível */
     align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: space-between;
+    heigh: 100%;
 }
 
 /* Estilos para o cabeçalho */
