@@ -1,7 +1,9 @@
 🚀 Mundo Minecraft - Site Interativo
+    
     Mundo Minecraft é um site interativo dedicado a oferecer uma experiência de navegação única para os fãs de Minecraft. Ele conta com um carrossel de cartões, uma página de login com validação de senha, uma seção de cadastro e uma navegação suave para explorar o conteúdo. O site também conta com efeitos de animação e uma navegação fluida entre as páginas.
 
 🗂️ Estrutura de Arquivos
+    
     index.html — Página principal do site, contendo o layout, os cartões de navegação e os links de interação.
 
     style.css — Folha de estilos que define a aparência visual, incluindo as animações e a disposição dos elementos.
