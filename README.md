@@ -28,22 +28,26 @@
     Validação simples de senha: a senha é fixa como "minecraft123" apenas para fins de demonstração.
 
 3. 📜 Página de Cadastro
-        Após o cadastro, o usuário é saudado com uma mensagem de boas-vindas: "Bem-vindo ao seu Novo Mundo! Sua conta foi Cadastrada."
+
+   Após o cadastro, o usuário é saudado com uma mensagem de boas-vindas: "Bem-vindo ao seu Novo Mundo! Sua conta foi Cadastrada."
 
         Simula a experiência de criação de uma conta em um mundo virtual.
 
-4. 🧭 Navegação Suave
-    A página oferece rolagem suave para a seção com o ID NetherWord, garantindo uma transição visual agradável ao navegar entre as seções.
+5. 🧭 Navegação Suave
 
-5. 🌌 Efeitos Visuais
-    Animações visuais no carrossel e na validação do login.
+   A página oferece rolagem suave para a seção com o ID NetherWord, garantindo uma transição visual agradável ao navegar entre as seções.
+
+6. 🌌 Efeitos Visuais
+
+   Animações visuais no carrossel e na validação do login.
 
     Efeitos de "shake" no formulário de login quando a senha está incorreta.
 
     Uso de sons para feedback de erro no login.
 
-6. 🌍 Redirecionamento entre Páginas
-    Funcionalidade de troca de páginas entre Cadastro e Login através de botões que redirecionam o usuário.
+7. 🌍 Redirecionamento entre Páginas
+
+   Funcionalidade de troca de páginas entre Cadastro e Login através de botões que redirecionam o usuário.
 
     A troca de página é realizada usando window.location.href, permitindo transições rápidas.
 
@@ -55,6 +59,7 @@
     JavaScript 
 
 📌 Observações
+    
     A senha usada na página de login é uma string fixa ("minecraft123") e não está integrada a um sistema de autenticação real.
 
     O site é apenas uma demonstração e não possui backend funcional. A autenticação é apenas simulada.
@@ -62,7 +67,11 @@
     As animações e interatividade são feitas com JavaScript puro e CSS.
 
 👨‍💻 Integrantes do Grupo
+    
     Lorena Andrade de Souza - RA: 24017491-2
+    
     Ana Gabrielle Dropa de Araújo - RA: 24519267-2
+   
     Vanusa Da Silva de Almeida - RA:24000657-2
+  
     Matheus de Souza Calisto - 24370489-2
